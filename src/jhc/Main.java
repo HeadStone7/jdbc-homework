@@ -1,5 +1,9 @@
-package DBUtil;
+package jhc;
 
+
+import DBUtil.DBUtil;
+import DBUtil.InsertSql;
+import DBUtil.StoredProcedure;
 
 import java.sql.*;
 import java.util.Scanner;
